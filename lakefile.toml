@@ -1,0 +1,10 @@
+name = "descriptive-complexity"
+version = "0.1.0"
+defaultTargets = ["descriptive-complexity"]
+
+[[lean_lib]]
+name = "DescriptiveComplexity"
+
+[[lean_exe]]
+name = "descriptive-complexity"
+root = "Main"
